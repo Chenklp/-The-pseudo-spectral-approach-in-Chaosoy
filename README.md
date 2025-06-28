@@ -32,10 +32,10 @@ Based on these coefficients, compute the expectation and the variance of $y_0(10
 
 Compare to a Monte Carlo reference solution computed with $N_{\text{ref}} = 1\,000\,000$ samples, which is given as:
 
-$
-\athbb{E}_{\text{ref}}[y_0(10)] = [-0.43893703]^T \\\\
+$$
+\mathbb{E}_{\text{ref}}[y_0(10)] = [-0.43893703]^T \\\\
 \text{Var}_{\text{ref}}[y_0(10)] = [0.00019678]^T
-$
+$$
 
 by computing the relative error.
 
